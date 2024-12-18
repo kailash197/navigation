@@ -1,0 +1,3 @@
+[submodule "ros2_nav_files"]
+	path = ros2_nav_files
+	url = https://bitbucket.org/theconstructcore/ros2_nav_files.git
